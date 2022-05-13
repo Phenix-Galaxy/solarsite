@@ -2376,7 +2376,8 @@ a {
 
     .logo-image {
         position: relative;
-        height: 26px;
+        height: 60px;
+        width: 60px;
         margin-top: 0px;
         margin-bottom: 0px;
     }
